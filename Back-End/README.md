@@ -15,5 +15,5 @@
 -- Es importante tener en cuenta que el formulario puede estar formado por respuestas de tipo String 
 
 ## LEVANTAR BACKEND
-En el archivo ".env" se encuentran las configuraciones de PORTs, nombre de la DB, contraseña de DB.
+En el archivo ".env" estan las configuraciones de PORTs, nombre de la DB, contraseña de DB.
 Aqui se configura personalmente el enviorment para poder levantar el servidor de Back-End.

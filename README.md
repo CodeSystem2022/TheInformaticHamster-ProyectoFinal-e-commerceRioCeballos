@@ -10,8 +10,9 @@
 Título del Proyecto:
 "Descubre Río Ceballos: Página Web de Turismo y Tienda de Recuerdos" - 
 -
-Descripción:
-Este proyecto es una página web dedicada a destacar los encantos de Río Ceballos, Córdoba, como destino turístico. La plataforma incluye una tienda en línea donde los visitantes pueden adquirir recuerdos auténticos de la ciudad. Además, se ofrece una sección de encuestas de satisfacción para recopilar comentarios valiosos y mejorar continuamente la experiencia del usuario.
+<b>Descripción:<b><br>
+Este proyecto es una página web dedicada a destacar los encantos de Río Ceballos, Córdoba, como destino turístico. La plataforma incluye una tienda en línea donde los visitantes pueden adquirir recuerdos auténticos de la ciudad.<br> 
+Además, se ofrece una sección de encuestas de satisfacción para recopilar comentarios valiosos y mejorar continuamente la experiencia del usuario.
 
 -
 
@@ -73,6 +74,9 @@ Contacto: <br>
 Correo Electrónico: [miguelr.s77@gmail.com].- <a href="mailto:miguelr.s77@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br>
 
 Correo Electrónico: [quispemarceloalejandro@gmail.com].- <a href="mailto:quispemarceloalejandro@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br>
+
+Correo Electrónico: [nadia.8acosta@gmail.com].- <a href="mailto:nadia.8acosta@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br>
+
 Issues en GitHub: [link to issues].-<br>
 
 

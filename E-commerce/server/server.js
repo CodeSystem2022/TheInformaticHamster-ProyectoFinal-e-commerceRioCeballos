@@ -72,7 +72,7 @@ app.get('/feedback', function (req, res) {
 const connection = mysql.createConnection({
 	host     : 'localhost',
 	user     : 'root',
-	password : 'root',
+	password : '123456789',
 	database : 'ecommerce'
   });
   
